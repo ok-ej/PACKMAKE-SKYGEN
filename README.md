@@ -1,4 +1,4 @@
-# PLUGIN ZOSTAŁ DYSKONTYNUOWANY. ZAWIERA BŁĘDY I NIE ZALECA SIĘ JEGO UŻYWANIA. ABY UZYSKAĆ JEGO LEPSZĄ I WYDAJNIEJSZĄ WERSJĘ, WEJDŹ NA DISCORDA https://dc.aureline.fun ABY POBRAĆ.
+# PLUGIN ZOSTAŁ DYSKONTYNUOWANY. ZAWIERA BŁĘDY I NIE ZALECA SIĘ JEGO UŻYWANIA. 
 
 ## 🌌 PACKMAKE-SKYGEN – Wydajny plugin na generatory (inspirowany MineStar.pl)
 
@@ -30,7 +30,7 @@ PACKMAKE-SKYGEN to zaawansowany plugin na generatory do serwerów Minecraft (na 
 
 ## 📬 Kontakt / Wsparcie
 Masz problem? Znalazłeś buga? A może masz propozycję?
-Skontaktuj się z nami na naszym discordzie pod https://dc.packmake.pl
+Skontaktuj się z nami na naszym discordzie pod xxx
 
 ## 💙 Dzięki za korzystanie!
 
